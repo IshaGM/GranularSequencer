@@ -13,6 +13,8 @@ The use interface consists of 4 control panels, which are being queried every be
 
 ![](Media/03Interface.png)
 
+![](Media/06VoiceCount.png)
+
 This patch formats the control data to send to the poly~:
 
 ![](Media/04ControlDataRouting.png)
