@@ -1,12 +1,12 @@
 # GranularSequencer
 Prototype of a 4 channel polyphonic granular sequencer in Max MSP
 
-![](Media/01 Full Sequencer.png)
+![](Media/01FullSequencer.png)
 
-![](Media/02 Initial Settings.png)
+![](Media/02InitialSettings.png)
 
-![](Media/03 User Interface.png)
+![](Media/03UserInterface.png)
 
-![](Media/04 Control Data Routing.png)
+![](Media/04ControlDataRouting.png)
 
-![](Media/05 Polyphonic Grain Playback.png)
+![](Media/05PolyphonicGrainPlayback.png)
