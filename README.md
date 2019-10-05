@@ -11,7 +11,7 @@ The initial setting sets the speed of the metronome, as well as the size (in sam
 
 The use interface consists of 4 control panels, which are being queried every beat. Each horizontal column represents a beat in the loop, while each row is a grain of the sample. 
 
-![](Media/03UserInterface.png)
+![](Media/03Interface.png)
 
 This patch formats the control data to send to the poly~:
 
