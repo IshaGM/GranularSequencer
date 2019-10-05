@@ -21,6 +21,9 @@ This patch formats the control data to send to the poly~:
 
 ![](Media/05PolyphonicGrainPlayback.png)
 
+Here's an unedited sample of the sequencer, with two different samples:
+
+
 
 This is just a prototype. There are many aspects of this that need refinement:
 - A better user interface, ideally something that allows you to dynamically alter the number of grains/beats in the bar
